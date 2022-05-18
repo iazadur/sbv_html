@@ -84,7 +84,34 @@ padding: 40px 20px;
 
 /* Tranning section  */
 
+.what {
+	background-position: 50% 50% !important;
+	background-attachment: fixed !important;
+	background-repeat: no-repeat !important;
+	background-image: url('../images/what.webp') !important;
+	background-size: cover !important;
+	background-color: #5f5757;
+	background-blend-mode: darken;
+}
 
+.what p{
+	font-size: 17px;
+	font-weight: 500;
+}
+/* .why choose us  */
+.why {
+	background-position: 50% 50% !important;
+	background-attachment: fixed !important;
+	background-repeat: no-repeat !important;
+	background-image: url('../images/why.webp') !important;
+	background-size: cover !important;
+	background-color: #5f5757;
+	background-blend-mode: darken;
+}
+.why svg{
+	width: 85px;
+	height: 85px;
+}
 
 
 
