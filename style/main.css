@@ -83,3 +83,37 @@ padding: 40px 20px;
 }
 
 /* Tranning section  */
+
+
+
+
+
+
+.subscribe{
+	max-width: 600px;
+	width: 100%;
+	margin: 0 auto;
+	border: 3px solid #2A94D0;
+	
+}
+
+.footer{
+	background-color: #000;
+	padding: 20px 10px;
+}
+.footer_down p{
+	font-size: 11px;
+}
+.footer_down a{
+	font-size: 11px;
+	color: white;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.custom{
+	width: 100px;
+	height: 4px;
+	background-color: #2A94D0;
+	
+}
